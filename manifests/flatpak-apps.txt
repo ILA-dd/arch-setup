@@ -1,0 +1,5 @@
+com.github.johnfactotum.Foliate
+com.obsproject.Studio
+io.github.Foldex.AdwSteamGtk
+net.nokyan.Resources
+org.vinegarhq.Sober
